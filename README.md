@@ -6,7 +6,7 @@
     Atividade 3, para créditos na disciplina de Projeto de Banco de dados, Solicitado pelo professor Diogo Francisco B. Rodrigues
 </p>
 
-<center>
+<p align="center">
 <table>
 <br />
   <tr>
@@ -14,15 +14,15 @@
 </b></sub></a><br /></td>
   </tr>
 </table>
-</center>
-
-<br />
-<!-- markdownlint-restore -->
-1)Considerando a DATABASE disponívelem https://github.com/DIOGOBRODRIGUES/DBP_3MA2021_1/blob/master/aula5.sqlDesenvolva uma função queinsere um novo aluno na tabela “Aluno” e retorne o nome do aluno Inserido.
+</p>
 
 <br />
 
-2)Desenvolva um procedimento em MYSQL que imprima a sequênciade 5 números utilizando a estrutura de repetição WHILE, saída esperada abaixo.
+1. Considerando a DATABASE disponívelem https://github.com/DIOGOBRODRIGUES/DBP_3MA2021_1/blob/master/aula5.sql Desenvolva uma função queinsere um novo aluno na tabela “Aluno” e retorne o nome do aluno Inserido.
+
+<br />
+
+2. Desenvolva um procedimento em MYSQL que imprima a sequênciade 5 números utilizando a estrutura de repetição WHILE, saída esperada abaixo.
 
 |     | str            |
 | --- | -------------- |
@@ -30,7 +30,7 @@
 
 <br />
 
-3)Faça um procedimento em MYSQL que use a estrutura de repetição REPEAT para concatenar números de 1 a 9 (função concatenar em MySQL “CON
+3. Faça um procedimento em MYSQL que use a estrutura de repetição REPEAT para concatenar números de 1 a 9 (função concatenar em MySQL “CON
 
 |     | result             |
 | --- | ------------------ |
