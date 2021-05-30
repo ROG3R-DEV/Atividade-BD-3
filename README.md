@@ -18,7 +18,7 @@
 
 <br />
 
-1. Considerando a DATABASE disponívelem https://github.com/DIOGOBRODRIGUES/DBP_3MA2021_1/blob/master/aula5.sql Desenvolva uma função queinsere um novo aluno na tabela “Aluno” e retorne o nome do aluno Inserido.
+1. Considerando a DATABASE disponível em https://github.com/DIOGOBRODRIGUES/DBP_3MA2021_1/blob/master/aula5.sql Desenvolva uma função queinsere um novo aluno na tabela “Aluno” e retorne o nome do aluno Inserido.
 
 <br />
 
@@ -30,7 +30,7 @@
 
 <br />
 
-3. Faça um procedimento em MYSQL que use a estrutura de repetição REPEAT para concatenar números de 1 a 9 (função concatenar em MySQL “CON
+3. Faça um procedimento em MYSQL que use a estrutura de repetição REPEAT para concatenar números de 1 a 9 (função concatenar em MySQL “CONCAT”)
 
 |     | result             |
 | --- | ------------------ |
